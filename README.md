@@ -1,3 +1,3 @@
 My first git repository. 
 <br>
-Author - Stone Roka Magar
+Author - Stone Roka Magar(Stone)
